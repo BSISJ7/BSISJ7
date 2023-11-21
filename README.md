@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BSISJ7
-- 👀 I’m interested in machine learning and educational software.
-- 🌱 I’m currently learning HTML, CSS, Javascript, and Python.
+- 👀 
+- 🌱 I’m currently Java.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me ...
 
